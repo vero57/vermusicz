@@ -2,6 +2,10 @@
 
 Welcome to Vermusicz! 🎵 This is your go-to platform for all things music. Dive into our latest releases, explore our products, and stay connected with us.
 
+## Warning
+This repository is still under development and not yet complete.
+
+
 ## Getting Started
 
 Ready to rock? Follow these steps to get started:
