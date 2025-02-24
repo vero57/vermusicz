@@ -1,4 +1,5 @@
 [
-  { "id": 1, "name": "Item 1", "price": "$10", "image": "/assets/item1.jpg", "description": "Description for Item 1", "category": "Category 1" },
-  { "id": 2, "name": "Item 2", "price": "$20", "image": "/assets/item2.jpg", "description": "Description for Item 2", "category": "Category 2" }
+  { "id": 1, "name": "Chromakopia Vinyl", "price": "Rp. 1.220.000", "image": "/assets/items/chromakopia.jpeg", "description": "Official from Tyler", "category": "Category 1" },
+  { "id": 2, "name": "Hit Me Hard And Soft Vinyl", "price": "Rp. 520.000", "image": "/assets/items/hit-me-hard-and-soft.webp", "description": "Limited Edition for you", "category": "Category 2" },
+  { "id": 3, "name": "In Rainbows Vinyl", "price": "Rp. 660.000", "image": "/assets/items/in-rainbow.webp", "description": "Radiohead's Vinyl with best musics ever", "category": "Category 3" }
 ]
